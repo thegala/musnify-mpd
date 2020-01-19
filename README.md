@@ -14,7 +14,7 @@ It can also display the album covers loaded from _last.fm_ in the notification s
 ## Dependencies
 To use musnify-mpd you will need to install the following python dependencies:
 
-    # pip2 install requests mpd
+    # pip install requests mpd
 
 ## Installation
 

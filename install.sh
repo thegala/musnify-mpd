@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo 'installing..'
-echo '#!/usr/bin/env python2' >> musnify-mpd && cat musnify-mpd.py >> musnify-mpd
+echo '#!/usr/bin/env python3' >> musnify-mpd && cat musnify-mpd.py >> musnify-mpd
 mv musnify-mpd /usr/bin/musnify-mpd
 chmod 755 /usr/bin/musnify-mpd
 
